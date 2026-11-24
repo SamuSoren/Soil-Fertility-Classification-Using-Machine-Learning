@@ -1,6 +1,6 @@
 SOIL FERTILITY CLASSIFICATION - BCA PBL
 
-1. Project_Report.pdf: main chapter-wise report (edit personal details first).
+1. Project_Report.pdf: main chapter-wise report.
 2. Dataset/: supplied CSV and its provenance README.
 3. Source_Code/: full pipeline and 13 individual scripts.
 4. Outputs/: generated charts, comparison results, matrices and example JSON.
